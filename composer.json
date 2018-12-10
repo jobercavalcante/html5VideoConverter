@@ -1,0 +1,25 @@
+{
+    "name": "jokatc/html5-video-converter",
+    "description": "Converter video using ffmpeg",
+    "type": "project",
+    "license": "GNU GENERAL PUBLIC LICENSE",
+    "authors": [
+        {
+            "name": "Jober Cavalcante",
+            "email": "jober@jober.com"
+        },
+        {
+            "name": "Bruno Gasparetto",
+            "email": "brunogasparetto@gmail.com",
+            "homepage": "https://github.com/brunogasparetto"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Html5VideoConverter\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.6"
+    }
+}

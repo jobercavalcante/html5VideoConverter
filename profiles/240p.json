@@ -1,0 +1,12 @@
+{
+  "video": {
+    "width": 426,
+    "height": 240,
+    "bitrate": "200k",
+    "framerate": "29.97"
+  },
+  "audio": {
+    "bitrate": "64k",
+    "samplingrate": 44100
+  }
+}
